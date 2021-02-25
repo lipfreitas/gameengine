@@ -1,0 +1,24 @@
+{
+  "name": "gameengine",
+  "version": "0.0.1",
+  "description": "Game Engine in Javascript based on Electron",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^11.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipfreitas/gameengine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipfreitas/gameengine/issues"
+  },
+  "homepage": "https://github.com/lipfreitas/gameengine#readme"
+}
