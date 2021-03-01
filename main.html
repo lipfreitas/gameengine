@@ -7,5 +7,12 @@
 <body>
 <character who="main"></character>
 </body>
+<script src="./core/mainFunctions.js"></script>
 <script src="./core/renderer.js"></script>
+<script>
+    (function() {
+        renderer.initialize();
+        main.initialize();
+    })();
+</script>
 </html>

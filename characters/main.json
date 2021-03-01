@@ -1,3 +1,6 @@
 {
-  "img": "character.png"
+  "img": "character.png",
+  "width": "55px",
+  "height": "55px",
+  "speed" : "5"
 }
